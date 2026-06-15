@@ -1,0 +1,11 @@
+.venv
+/.venv
+/data
+secret.py
+pycache
+__pycache__
+/logs
+/Share_executable
+/ShareBridge/bin
+/ShareBridge/obj
+*.exe
